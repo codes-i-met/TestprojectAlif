@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewBag.Title = "ShowAllStudent";
+    Layout = null;
+}
+
+<h2>ShowAllStudent</h2>
+
+<div>
+    <div class="row cardContainer">
+        <div class="span3 card" ng-repeat="student in Students">
+            <button class="btn close cardClose" data-ng-click="deleteCustomer(customer.id)">&times;</button>
+            <div class="cardHeader"> Student Name : {{student.student_Name}}</div>
+            <div class="cardBody"> Gaurdian  Name : {{student.guardian_Name}}</div>
+            <div class="cardBody"> Gaurdian  Phone Number: {{student.guardian_Contact_Number}}</div>
+           
+        </div>
+    </div>
+</div>

@@ -1,0 +1,10 @@
+D:\Git projects\2013 Projects\alifService\AlifWebservice\AlifWebservice\bin\AlifWebservice.dll.config
+D:\Git projects\2013 Projects\alifService\AlifWebservice\AlifWebservice\bin\AlifWebservice.dll
+D:\Git projects\2013 Projects\alifService\AlifWebservice\AlifWebservice\bin\AlifWebservice.pdb
+D:\Git projects\2013 Projects\alifService\AlifWebservice\AlifWebservice\bin\Dapper.dll
+D:\Git projects\2013 Projects\alifService\AlifWebservice\AlifWebservice\bin\Newtonsoft.Json.dll
+D:\Git projects\2013 Projects\alifService\AlifWebservice\AlifWebservice\bin\Dapper.pdb
+D:\Git projects\2013 Projects\alifService\AlifWebservice\AlifWebservice\bin\Dapper.xml
+D:\Git projects\2013 Projects\alifService\AlifWebservice\AlifWebservice\bin\Newtonsoft.Json.xml
+D:\Git projects\2013 Projects\alifService\AlifWebservice\AlifWebservice\obj\Release\AlifWebservice.dll
+D:\Git projects\2013 Projects\alifService\AlifWebservice\AlifWebservice\obj\Release\AlifWebservice.pdb
